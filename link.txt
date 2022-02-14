@@ -1,0 +1,15 @@
+https://dev.to/ramu_mangalarapu/openid-connect-oauth-with-okta-in-golang-o0d
+
+https://github.com/coreos/go-oidc
+
+Github: https://github.com/uid4oe/grpc-web-demo
+
+Phương tiện: https://medium.com/alva-labs/building-microapps-with-grpc-web-64b7cdf50313
+
+https://libs.garden/go/search?q=openid+connect&sort=top
+
+https://github.com/ericchiang/oidc
+
+https://github.com/ericchiang/kube-oidc
+
+https://github.com/StalkR/openid
